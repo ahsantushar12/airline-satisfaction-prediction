@@ -68,4 +68,4 @@ Key Features:
 
 ## 📌 Authors
 
-This project was completed as part of a university Machine Learning course.
+This project was completed as part of the Strategic Capstone Project in my MSBA program.
